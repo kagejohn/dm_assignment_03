@@ -1,2 +1,5 @@
-# dm_assignment_03
-The third assignment for Discrete Mathematics
+Membership is done<br/>
+Intersection is not done<br/>
+Union is not done<br/>
+Difference is not done<br/>
+Complement is not done<br/>
